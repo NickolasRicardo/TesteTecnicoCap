@@ -84,7 +84,7 @@ namespace Questao1
         private static void exibirDadosConta(ContaBancaria conta, bool primeiraExibicao = false)
         {
             if (primeiraExibicao)
-                Console.WriteLine("Dados da conta atualizados:");
+                Console.WriteLine("Dados da conta:");
             else
                 Console.WriteLine("Dados da conta atualizados:");
 
